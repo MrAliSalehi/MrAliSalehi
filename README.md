@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mralisalehi&theme=chalk&title=Stars,Commit,Followers,Repositories&margin-w=5)](https://github.com/MrAliSalehi/MrAliSalehi)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/MrAliSalehi/MrAliSalehi)
 
 
 <a href="https://github.com/MrAliSalehi/MrAliSalehi">
@@ -10,6 +10,10 @@
 </a>
 
 &nbsp;
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mralisalehi&theme=chalk&title=Stars,Commit,Followers,Repositories&margin-w=5)](https://github.com/MrAliSalehi/MrAliSalehi)
+
+#
 
 <h3 align="left">Other platforms:</h3>
 <p align="left">
