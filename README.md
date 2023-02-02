@@ -14,7 +14,6 @@
 
 <h3 align="left">Other platforms:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-salehi-9140a8217" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0072b1" alt="" height="30" width="40" /></a>
+<a href="https://t.me/sharolah" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/229ED9" alt="" height="30" width="40" /></a>
 </p>
