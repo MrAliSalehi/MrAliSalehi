@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=mralisalehi&theme=chalk&title=Stars,Commit,Followers,Repositories&margin-w=5)](https://github.com/MrAliSalehi/MrAliSalehi)
+
 
 <a href="https://github.com/MrAliSalehi/MrAliSalehi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mralisalehi&show_icons=true&theme=dark&count_private=true&hide=issues&include_all_commits=true" />
@@ -8,9 +10,6 @@
 </a>
 
 &nbsp;
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mralisalehi&theme=chalk&title=Stars,Commit,Followers,Repositories&margin-w=5)](https://github.com/MrAliSalehi/MrAliSalehi)
-
 
 <h3 align="left">Other platforms:</h3>
 <p align="left">
