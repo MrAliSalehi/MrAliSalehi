@@ -6,7 +6,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/MrAliSalehi/MrAliSalehi" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralisalehi&exclude_repo=BlueYard,midnight&hide=css&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralisalehi&exclude_repo=BlueYard,midnight&hide=html,css&layout=compact&theme=dark&langs_count=6" />
 </a>
 
 &nbsp;
