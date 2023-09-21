@@ -2,14 +2,14 @@
 
 
 <a href="https://github.com/MrAliSalehi/MrAliSalehi" style="display=block">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mralisalehi&show_icons=true&theme=dark&count_private=true&hide=issues&include_all_commits=true" />
+  <img align="center" src="https://raw.githubusercontent.com/mralisalehi/gh-st/master/generated/overview.svg#gh-dark-mode-only" />
 </a>
 </br>
 
 ###
 
 <a href="https://github.com/MrAliSalehi/MrAliSalehi" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralisalehi&exclude_repo=BlueYard,midnight&hide=html,css&layout=compact&theme=dark&langs_count=6" />
+  <img align="center" src="https://raw.githubusercontent.com/MrAliSalehi/gh-st/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 &nbsp;
