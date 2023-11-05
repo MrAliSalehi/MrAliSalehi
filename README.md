@@ -20,5 +20,5 @@
 
 
 <p align="left">
-<a href="https://t.me/sharolah" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/229ED9" alt="" height="30" width="40" /></a>
+<a href="https://t.me/the_alisalehi" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/229ED9" alt="" height="30" width="40" /></a>
 </p>
