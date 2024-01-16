@@ -15,7 +15,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mralisalehi&theme=chalk&title=Stars,Commit,Followers,Repositories&margin-w=5)](https://github.com/MrAliSalehi/MrAliSalehi)
 
-my articles on [dev.to](https://dev.to/mrali109].
+my articles on [dev.to](https://dev.to/mrali109).
+
 #
 
 
